@@ -1,5 +1,12 @@
 # Buchberger ID Algorithm Step-by-Step in Julia/Oscar
 
+<br>
+
+**Author:** Parisa Ebrahimian (Teaching Assistant)  
+**Instructor:** Prof. Dr. Hannah Markwig <br>
+**Course:** Introduction to Commutative Algebra and Algebraic Geometry, Eberhard Karls Universität Tübingen, WiSe 25/26
+
+
 
 <br>
 
